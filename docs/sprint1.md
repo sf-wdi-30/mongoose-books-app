@@ -15,7 +15,7 @@
 
 ## 3. Outgrowing Arrays as a datastore.
 
-Array's are no longer adequate as a data-store.  They lose their data whenever the server is shut-down, they don't support backups unless you copy the file and new elements never get saved in the file.  Plus all the cool kids are using databases not arrays.
+Arrays are no longer adequate as a data-store.  They lose their data whenever the server is shut-down, they don't support backups unless you copy the file and new elements never get saved in the file.  Plus all the cool kids are using databases, not arrays.
 
 Let's replace that array with a database.  We'll create a booksSchema and Books model.  
 
