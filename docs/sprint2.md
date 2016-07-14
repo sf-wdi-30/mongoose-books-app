@@ -148,7 +148,7 @@ var BookSchema = new Schema({
   ```
   </details>
 
-1. Now we need edit our `seed.js` file to create books and authors being sure to connect the two together. Remove all the other functions and replace with:
+1. Now we need to edit our `seed.js` file to create books and authors being sure to connect the two together. Remove all the other functions and replace with:
 
   <details><summary>Click to view monstrosity</summary>
 
